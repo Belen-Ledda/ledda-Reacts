@@ -4,9 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//importar mi primer componente
+
+
+
+
+
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App /> 
   </React.StrictMode>,
   document.getElementById('root')
 );

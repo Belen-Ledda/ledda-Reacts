@@ -1,0 +1,9 @@
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+ul li {
+    list-style: none;
+    margin-right: 2rem ;
+}
